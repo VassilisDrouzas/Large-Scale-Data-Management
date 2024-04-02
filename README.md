@@ -1,3 +1,6 @@
+
+## Large Scale Data Management
+
 ![image](https://github.com/VassilisDrouzas/Large-Scale-Data-Management/assets/81232757/baa68d2d-51ef-41f1-b440-32f488b7b124)
 
 
