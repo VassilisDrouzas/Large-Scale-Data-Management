@@ -1,4 +1,4 @@
-This repository consists of two projects:
+In this subject, we made two projects in Ubuntu (with the assistance of a Vagrant file):
 
 1) **Java Hadoop Map-Reduce Application**:
    
