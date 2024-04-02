@@ -1,12 +1,13 @@
 This repository consists of two projects:
 
-A Java Hadoop map-reduce application which:
+1) **Java Hadoop Map-Reduce Application**:
+   
+   - Calculates the frequency of each word in a large file.
+   - Aggregates Spotify song statistics by country and month.
 
-Computes the occurences of each word for a large file
-Computes spotify song statistics for each country and month
-A Hadoop SPARK-Cassandra application which:
+2) **Hadoop SPARK-Cassandra Application**:
 
-Generates a configurable stream of test data, posting them to a Kafka cluster
-Reads, preprocesses and combines the stream data with static data using SPARK
-Periodically posts them to a Cassandra cluster
-Performs queries using CQL on the Cassandra cluster
+   - Generates a customizable stream of test data and sends it to a Kafka cluster.
+   - Reads and preprocesses the streaming data, merging it with static data using Apache SPARK.
+   - Regularly uploads the processed data to a Cassandra cluster.
+   - Executes queries on the Cassandra cluster using CQL.
