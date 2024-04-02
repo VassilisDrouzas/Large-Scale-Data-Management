@@ -1,3 +1,6 @@
+![image](https://github.com/VassilisDrouzas/Large-Scale-Data-Management/assets/81232757/baa68d2d-51ef-41f1-b440-32f488b7b124)
+
+
 In this subject, we made two projects in Ubuntu (with the assistance of a Vagrant file):
 
 1) **Java Hadoop Map-Reduce Application**:
